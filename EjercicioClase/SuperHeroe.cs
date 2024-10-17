@@ -21,6 +21,7 @@
             Console.WriteLine($"Descripcion: {SuperPoder.Descripcion}");
             Console.WriteLine($"Nivel: {SuperPoder.Nivel}");
             Console.WriteLine();
+            Console.WriteLine("Muchas Gracias");
         }
     }
 }
